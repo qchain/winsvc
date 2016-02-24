@@ -14,7 +14,7 @@ package mgr
 import (
 	"syscall"
 
-	"github.com/btcsuite/winsvc/winapi"
+	"github.com/qchain/winsvc/winapi"
 )
 
 // Mgr is used to manage Windows service.

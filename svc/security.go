@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/btcsuite/winsvc/winapi"
+	"github.com/qchain/winsvc/winapi"
 )
 
 // TODO(brainman): move some of that code to syscall/security.go

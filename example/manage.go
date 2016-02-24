@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/btcsuite/winsvc/mgr"
-	"github.com/btcsuite/winsvc/svc"
+	"github.com/qchain/winsvc/mgr"
+	"github.com/qchain/winsvc/svc"
 )
 
 func startService(name string) error {
